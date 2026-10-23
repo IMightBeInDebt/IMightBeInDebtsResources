@@ -39,6 +39,7 @@ public class ImageExample : MonoBehaviour
 And if you want to call a sound:
 
 ```
+using LoadSound;
 using UnityEngine;
 
 public class SoundExample : MonoBehaviour

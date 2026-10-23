@@ -2,7 +2,7 @@
 General modding resources for my released and upcoming mods
 
 If you would like a guide on how to make simple web requests
-to your own repository, go to the [usages](https://github.com/IMightBeInDebt/IMightBeInDebtsResources/blob/main/README.md#Usages) section
+to your own repository, go to the [usages]([https://github.com/IMightBeInDebt/IMightBeInDebtsResources/blob/main/README.md#Usages](https://github.com/IMightBeInDebt/IMightBeInDebtsResources/tree/main#usages)) section
 
 ---
 
